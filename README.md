@@ -1,3 +1,8 @@
+This repository is a combination of the Lottery contract tutorial from Staphen Grider's Ethereum and Solidity: The Complete Developer's Guide course https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/ built with the CSI-Dapp-Template from Consensys.
+
+Below is the README for the CSI-Dapp-Template https://github.com/ConsenSys/CSI-Dapp-Template
+
+
 # drizzle-Box-Build DApp Template
 
 The following repository serves as a template to both help you get started on your Dapp development journey and help you learn a few key things that should prove helpful for future DApp development. This particular Dapp is a simple form using the drizzle truffle box that does the following: 
